@@ -25,11 +25,12 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 To use this calculator, you need to have [Laravel](https://laravel.com/docs/8.x/installation) and [Composer](https://getcomposer.org/) installed on your machine.
 
-1. Clone the repository to your local machine: ``git clone https://github.com/yourusername/laravel-scientific-calculator.git``
+1. Clone the repository to your local machine: ``git clone https://github.com/alatishe/scientific-calculator.git``
 
-2. Install the required dependencies: ``cd laravel-scientific-calculator``
-``composer install``
-``npm install``
+2. Install the required dependencies: 
+    (a) Run `cd laravel-scientific-calculator`
+    (b) Run `composer install`
+    (c) Run ``npm install``
 
 3. Copy the `.env.example` file and rename it to `.env`. Update the database configuration settings to match your local environment.
 
